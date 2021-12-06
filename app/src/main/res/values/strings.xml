@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecondApplication</string>
+    <string name="new_text">New text</string>
+    <string name="next_activity">Next activity</string>
+    <string name="hello_second_text">Hello second text</string>
+    <string name="hello">Hello!!!</string>
+    <string name="chip">click me</string>
+</resources>
